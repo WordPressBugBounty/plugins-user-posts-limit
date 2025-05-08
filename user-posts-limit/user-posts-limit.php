@@ -4,7 +4,7 @@
  * Plugin Name: User Posts Limit
  * Plugin URI: https://en.condless.com/user-posts-limit/
  * Description: Limit the number of posts user can create. Any post type.
- * Version: 1.2.2
+ * Version: 1.2.3
  * Author: Condless
  * Author URI: https://en.condless.com/
  * Developer: Condless
@@ -15,7 +15,7 @@
  * License: GPLv2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  * Requires at least: 5.2
- * Tested up to: 6.7
+ * Tested up to: 6.8
  * Requires PHP: 7.0
  */
 

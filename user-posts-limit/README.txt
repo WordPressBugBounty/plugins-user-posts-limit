@@ -2,9 +2,9 @@
 Contributors: condless
 Tags: limit, post, user, role
 Requires at least: 5.2
-Tested up to: 6.7
+Tested up to: 6.8
 Requires PHP: 7.0
-Stable tag: 1.2.2
+Stable tag: 1.2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -69,6 +69,9 @@ PHP 7.0 or greater
 Insert shortcode widget with [upl_hide type=&#34;post&#34;][/upl_start] before your content and another shortcode widget with [/upl_hide] after your content.
 
 == Changelog ==
+
+= 1.2.3 - May 8, 2025 =
+* Enhancement - WordPress version compatibility
 
 = 1.2.2 - November 12, 2024 =
 * Dev - WP compatibility
