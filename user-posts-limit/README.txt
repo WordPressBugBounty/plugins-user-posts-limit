@@ -2,9 +2,9 @@
 Contributors: condless
 Tags: limit, post, user, role
 Requires at least: 5.2
-Tested up to: 7.0
+Tested up to: 7.1
 Requires PHP: 7.0
-Stable tag: 1.2.5
+Stable tag: 1.2.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -70,6 +70,9 @@ Insert shortcode widget with [upl_hide type=&#34;post&#34;][/upl_start] before y
 
 == Changelog ==
 
+= 1.2.6 - August 13, 2026 =
+* Enhancement - WordPress version compatibility
+
 = 1.2.5 - June 23, 2026 =
 * Enhancement - WordPress version compatibility
 
@@ -85,7 +88,7 @@ Insert shortcode widget with [upl_hide type=&#34;post&#34;][/upl_start] before y
 = 1.2.1 - May 22, 2024 =
 * Dev - WP compatibility
 
-= 1.2 - March 1, 2024 =
+= 1.2.0 - March 1, 2024 =
 * Dev - WP compatibility
 
 = 1.1.9 - October 12, 2023 =
@@ -115,7 +118,7 @@ Insert shortcode widget with [upl_hide type=&#34;post&#34;][/upl_start] before y
 = 1.1.1 - January 5, 2022 =
 * Dev - Current post type filter and Messages filter
 
-= 1.1 - July 28, 2021 =
+= 1.1.0 - July 28, 2021 =
 * Dev - WP compatibility
 
 = 1.0.9 - June 30, 2021 =
@@ -145,5 +148,5 @@ Insert shortcode widget with [upl_hide type=&#34;post&#34;][/upl_start] before y
 = 1.0.1 - April 20, 2020 =
 * Feature - Timing rule
 
-= 1.0 - April 10, 2020 =
+= 1.0.0 - April 10, 2020 =
 * Initial release
